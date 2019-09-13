@@ -1,6 +1,6 @@
 # Slider
 This project was built for an Artificial Intelligence course 
-in the DrRacket IDE. 
+in the DrRacket IDE. It is coded in Racket, a descendant of Scheme.
 It concerns the employment of multiple search algorithms,
 including: 
 1. Depth-First Search (DFS)
